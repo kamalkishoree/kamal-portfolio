@@ -1,9 +1,16 @@
-# Kamal Kishore Portfolio
+# Kamal Kishore — Portfolio
 
-Personal portfolio website.
+Futuristic neon-green portfolio site.
 
-## Live site
+## Live
 
 https://kamalkishoree.github.io/kamal-portfolio/
 
-Enable Pages: **Settings → Pages → Source: Deploy from a branch → Branch `main` / folder `/ (root)` → Save**
+## Files
+
+- `index.html` — full animated portfolio
+- `resume.pdf` — downloadable resume
+
+## Enable GitHub Pages
+
+Settings → Pages → Source: **Deploy from a branch** → Branch **main** / **/(root)** → Save
